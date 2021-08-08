@@ -75,8 +75,8 @@
           </p>
         </div>
 
-        <v-row class="pa-2" >
-          <v-col cols="12" sm="6">
+        <v-row class="pa-3" >
+          <v-col cols="6" sm="6">
             <v-card color="rounded-lg">
               <v-img
                 max-height="300"
@@ -95,7 +95,7 @@
               </v-img>
             </v-card>
           </v-col>
-          <v-col cols="12" sm="6">
+          <v-col cols="6" sm="6">
             <v-card color="rounded-lg">
               <v-img
                 max-height="300"
@@ -114,7 +114,7 @@
               </v-img>
             </v-card>
           </v-col>
-          <v-col cols="12" sm="6">
+          <v-col cols="6" sm="6">
             <v-card color="rounded-lg">
               <v-img
                 max-height="300"
@@ -132,7 +132,7 @@
               </v-img>
             </v-card>
           </v-col>
-          <v-col cols="12" sm="6">
+          <v-col cols="6" sm="6">
             <v-card color="rounded-lg">
               <v-img
                 max-height="300"
@@ -178,16 +178,16 @@
                   tile
                 >
                   <div class="d-flex flex-column pa-sm-10 pa-2 grey--text">
-                    <p>
+                    <p class="text-body-2">
                       JUNE 2012 - 2016
                     </p>
-                    <p class="white--text text-h5 font-weight-bold my-n1">
+                    <p class="white--text text-sm-h5 text-subtitle-1 font-weight-bold my-n1">
                       Product Designer
                     </p>
-                    <p>
+                    <p class="text-subtitle-2 primary--text text-sm-h6">
                       Adobe Inc.
                     </p>
-                    <p>
+                    <p class="text-body-2 text-sm-body-1">
                       Lorem ipsum dolor sit amet, coectetur adipisicing elit,
                       sed do eiusmod temp incididunt ut labore.
                     </p>
@@ -203,16 +203,16 @@
                   tile
                 >
                   <div class="d-flex flex-column pa-sm-10 pa-2 grey--text">
-                    <p>
+                    <p class="text-body-2">
                       JUNE 2012 - 2016
                     </p>
-                    <p class="white--text text-h5 font-weight-bold my-n1">
+                    <p class="white--text text-sm-h5 text-subtitle-1 font-weight-bold my-n1">
                       Product Designer
                     </p>
-                    <p>
+                    <p class="text-subtitle-2 primary--text text-sm-h6">
                       Adobe Inc.
                     </p>
-                    <p>
+                    <p class="text-body-2 text-sm-body-1">
                       Lorem ipsum dolor sit amet, coectetur adipisicing elit,
                       sed do eiusmod temp incididunt ut labore.
                     </p>
@@ -228,16 +228,16 @@
                   tile
                 >
                   <div class="d-flex flex-column pa-sm-10 pa-2 grey--text">
-                    <p>
+                    <p class="text-body-2">
                       JUNE 2012 - 2016
                     </p>
-                    <p class="white--text text-h5 font-weight-bold my-n1">
+                    <p class="white--text text-sm-h5 text-subtitle-1 font-weight-bold my-n1">
                       Product Designer
                     </p>
-                    <p>
+                    <p class="text-subtitle-2 primary--text text-sm-h6">
                       Adobe Inc.
                     </p>
-                    <p>
+                    <p class="text-body-2 text-sm-body-1">
                       Lorem ipsum dolor sit amet, coectetur adipisicing elit,
                       sed do eiusmod temp incididunt ut labore.
                     </p>
